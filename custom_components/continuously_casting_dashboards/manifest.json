@@ -2,7 +2,7 @@
     "domain": "continuously_casting_dashboards",
     "name": "Continuously Cast Dashboards",
     "documentation": "https://github.com/b0mbays/continuously_casting_dashboards",
-    "requirements": ["PyYAML==6.0", "git+https://github.com/se-bastiaan/catt.git@e3ef4ee25da5f04dd43c79040864efcced44059d#egg=catt""],
+    "requirements": ["PyYAML==6.0", "catt @ git+https://github.com/se-bastiaan/catt.git@e3ef4ee25da5f04dd43c79040864e"],
     "version": "1.2.0",
     "dependencies": [],
     "codeowners": ["@b0mbays"]
